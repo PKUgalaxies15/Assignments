@@ -22,6 +22,8 @@ Local Group [e.g., McConnachie et al. (2012)](http://adsabs.harvard.edu/abs/2012
 
 [DEEP2 Galaxy Survey (median z~1)](http://deep.ps.uci.edu/DR4/home.html)
 
+**You may use other data sets if you wish**
+
 **2) Galaxy Properties as a function of environment**
 
 Take the luminosity, size, and color distributions you have derived above, and plot them as a function of environment. For local volume data sets, compare the Local Group and Virgo Cluster. Also, compare the inner regions of the Virgo Cluster (near M87 and M49) with the outskirts. For the other data sets, use local density as a proxy for environment. 
