@@ -4,6 +4,7 @@ Please make sure your homework has your name (both Chinese and pinyin). You are 
 but everyone should hand in their own assignment. You should submit it via email to me and Yiqing Liu (yiqing.liu@pku.edu.cn) in PDF format.
 
 **1) Properties of galaxies (luminosity, size, color).**
+
 Determine the luminosity function, color distribution, and size distribution (per unit volume) for galaxies. Different data sets are at different distances (and redshifts). Remember that for redshift surveys, more luminous galaxies can be seen at larger distances, so you need to do a "Vmax" correction. For each luminosity bin, you need to know what the maximum volume in which the galaxy was observed.
 
 Data sets:
