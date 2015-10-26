@@ -9,6 +9,8 @@ these ditributions in different environments.
 
 Data sets:
 
+[NASA Extragalactic Database](https://ned.ipac.caltech.edu)
+
 Local Group [e.g., McConnachie et al. (2012)](http://adsabs.harvard.edu/abs/2012AJ....144....4M)
 
 [Extended Virgo Cluster Catalog](https://sites.google.com/site/extendedvcc/)
